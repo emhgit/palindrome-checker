@@ -20,13 +20,14 @@ The result will be displayed dynamically below the input field.
 Alerts the user if they attempt to check without entering any text.
 
 ### 📂 Project Structure
-pgsql
+```pgsql
 Copy
 Edit
 /
 ├── index.html
 ├── styles.css
 └── script.js
+```
 index.html — Sets up the basic webpage structure.
 
 styles.css — Adds responsive, centered styling with a dark color scheme.
