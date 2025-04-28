@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: #201b2b;
+    color: #ffffff
+  }
+  
+  fieldset {
+    display: grid;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  input {
+    height: 25px;
+    text-align: center;
+  }
+  
+  button:hover {
+    background-color: #A9A9A9
+  }
+  
+  button {
+    margin: 5px auto 0 auto;
+    border: 0px;
+    border-radius: 10%;
+    font-weight: bold;
+    width: 200px;
+    background-color: #808080;
+    color: #ffffff;
+  }
+  
+  p {
+    border: solid 1px #ffffff;
+    max-width: 250px;
+    margin: 20px auto;
+    padding: 5px;
+  }
+  
