@@ -1,6 +1,9 @@
 # Palindrome Checker
 A simple web application that checks if a given text is a palindrome — a word, phrase, or sequence that reads the same backward as forward.
 
+## Demo
+![alt text](image.png)
+
 ### 🖥️ Project Overview
 This project consists of:
 
